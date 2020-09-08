@@ -1,2 +1,2 @@
 # Machine-Learning
-Machine Learning Algorithms in Python &amp; Scikit_Learn
+Machine Learning Algorithms in Python &amp; Scikit-Learn
